@@ -1,0 +1,41 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE & Editor Settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Environment & Local Configuration
+.env
+.env.local
+.env.*.local
+*.local.php
+
+# Web Server & PHP Logs
+*.log
+error_log
+access_log
+*.error
+
+# Temporary files & Caches
+tmp/
+temp/
+cache/
+.cache/
+
+# Dependencies
+vendor/
+node_modules/
